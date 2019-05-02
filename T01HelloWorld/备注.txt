@@ -1,0 +1,3 @@
+T01HelloWorld.pro 是一个Qt的工程文件 ，类似于sln文件
+T01HelloWorld.pro.user 是编译的用户的特定的环境的文件，例如代码从Windows拷贝到
+Linux上，这个文件是没有用的。
